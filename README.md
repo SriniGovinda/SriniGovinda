@@ -1,7 +1,7 @@
 ## こんにちは 👋 I'm Srinivasan Govindaraj  
 
 💻 **Full-stack Developer | Java (Spring Boot) & React.js Enthusiast**  
-🌏 Passionate about building scalable, maintainable web applications and bridging technology between **Japan and global teams**.  
+🌏 Passionate about building scalable, maintainable web applications and bridging between **Japan and global teams**.  
 🔍 Currently deepening expertise in **Spring Data JPA**, **RESTful APIs**, and **modern frontend frameworks**.  
 🤝 Open to opportunities in **Japan’s IT and software development sector**.  
 💬 日本語でもコミュニケーション可能です 🇯🇵  
@@ -14,18 +14,15 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ### 🛠️ IDE & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -44,7 +41,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/srinivasan-govindaraj-2a268a52/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/SriniGovinda"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/srinigovinda/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/srinion/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
